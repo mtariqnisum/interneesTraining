@@ -7,6 +7,7 @@ public class Main {
 
         // Arrays practis
 
+
         int[] numbers={2,1,4,5,4};
         System.out.println("Length of an array");
         System.out.println(numbers.length);
