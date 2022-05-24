@@ -6,6 +6,10 @@ public class Main {
         System.out.println("Doing nothing!");
     }
 
+
+    public void doSomething() {
+        System.out.println("Doing something!!!");
+    }
     public static void main(String[] args) {
         String message= "Hello \nNisum";
         System.out.println(message);
