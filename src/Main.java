@@ -1,6 +1,11 @@
 import java.util.Arrays;
 
 public class Main {
+
+    public static void doNothing() {
+        System.out.println("Doing nothing!");
+    }
+
     public static void main(String[] args) {
         String message= "Hello \nNisum";
         System.out.println(message);
