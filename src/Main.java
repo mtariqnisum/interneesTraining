@@ -5,7 +5,7 @@ public class Main {
         String message= "Hello \nNisum";
         System.out.println(message);
 
-        // Arrays practise
+        // Arrays practis
 
         int[] numbers={2,1,4,5,4};
         System.out.println("Length of an array");
