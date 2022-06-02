@@ -3,6 +3,7 @@ abstract class Person{
     private final int acc_Number;
     private final int identity_Number;
 
+
     public Person(String name,int acc_Number,int identity_Number){
       this.name = name;
       this.acc_Number = acc_Number;
