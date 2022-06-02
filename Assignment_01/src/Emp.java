@@ -10,6 +10,7 @@ public class Emp extends Person {
 
     public static void main(String args[]) {
 
+
         Person emp = new Emp("Adam", 01001 - 99991, 9901);
         emp.walk();
         System.out.println("Employee" + emp.getName());
