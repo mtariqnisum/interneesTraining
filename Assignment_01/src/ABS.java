@@ -4,6 +4,7 @@ abstract class Person{
     private int identity_Number;
 
 
+
     public Person(String name,int acc_Number,int identity_Number){
       this.name = name;
       this.acc_Number = acc_Number;
