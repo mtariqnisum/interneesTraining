@@ -8,6 +8,7 @@ public class Task02 {
         System.out.println("Student Roll No: " + student.getRoll_no());
     }
 }
+
 class Student1{
     private static Student1 student1 = new Student1();
     private String name;

@@ -16,6 +16,7 @@ public class CompileTimePolymorphism {
         }
     }
 
+
     class Rectangle  {
         public void calculateArea(int w, int l) {
             System.out.println(w*l);

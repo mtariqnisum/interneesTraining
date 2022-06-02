@@ -46,7 +46,6 @@ class Main {
         Student s3 =new Student();
 
 
-
         // change name using setter
         s1.setName("Ali");
         s2.setAge(20);

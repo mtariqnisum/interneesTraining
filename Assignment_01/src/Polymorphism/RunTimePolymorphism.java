@@ -16,7 +16,6 @@ public class RunTimePolymorphism {
             System.out.println((3.14)*r*r);
         }
     }
-
     class Rectangle extends Shape {
         public void calculateArea(int w, int l) {
             System.out.println(w*l);
